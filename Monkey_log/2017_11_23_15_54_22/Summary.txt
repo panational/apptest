@@ -1,0 +1,5 @@
+---------本次monkey测试结果统计--------
+文件: C:\Users\hp\PycharmProjects\appium_python_android\Monkey_log\2017_11_23_15_54_22\VIVO_X7.log 的crash和anr统计信息 
+crash个数统计: 0 
+anr个数统计: 0 
+
